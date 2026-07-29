@@ -1,0 +1,8 @@
+{
+  "name": "着順シミュレーター",
+  "short_name": "競馬Sim",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A2920",
+  "theme_color": "#0F3D2E"
+}
